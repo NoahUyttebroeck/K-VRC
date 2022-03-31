@@ -13,8 +13,14 @@ There are 9 default behaviors:
 - Ooh
 ## Add behavior
 You can add your own behaviors by going inside your xojo project in App->Methods->LoadBehaviors and add the following code at the bottom of the file:
-```xojoscript
+```BASIC
 Behaviors.Add(new RobotBehavior([behaviorname], new Eyes([CLOSED eyesimage], [OPEN eyesimage]), new Mouth([CLOSED mouthimage], [OPEN mouthimage], [SMALL mouthimage])))
 ```
+After doing this you can restart your application and your new behavior should be inside the behaviorlist
 # Sound
+Sounds are used to move a reallife character by outputting this analog signal in the right channel and other sounds like speech is outputted in the left channel.
 # Add sound
+You can also add your own sounds like you can with behaviors.
+To add your own sound you need to make sure that there is only sound comming out of the right channel.
+Put your sound file in the project folder under resources->snd
+After doing this you can restart your application and your new sound should be inside the soundlist 
