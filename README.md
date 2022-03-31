@@ -1,4 +1,7 @@
 # K-VRC
+With this project you can syncronize a text with a spoken audio file and moving character.
+This project is made to repicate K-VRC from [Love Death & Robots](https://nl.wikipedia.org/wiki/Love,_Death_%26_Robots) as an application.
+And later used for a reallife robot counterpart. You can use this project not only for this purpose but you can also use it to create your own speaking character.
 # Interface
 # Behavior
 There are 9 default behaviors:
