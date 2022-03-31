@@ -5,9 +5,9 @@ And later used for a reallife robot counterpart. You can use this project not on
 # Interface
 ![interface overview](https://i.ibb.co/dPGksqB/K-VRC-Interface.jpg)<br>
 The interface exists of 3 main parts:
-- [Display](##Display)
-- [TextArea](##TextArea)
-- [SettingsPanels](##SettingsPanels)
+- [Display](#Display)
+- [TextArea](#TextArea)
+- [SettingsPanels](#SettingsPanels)
 ## Display
 This is were your character is displayed. You can edit it's alignment with the yoffset constant or even write your own algnmentcode in: Window1->Controls->Canvas1->Paint
 ## TextArea
