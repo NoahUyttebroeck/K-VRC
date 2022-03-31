@@ -3,6 +3,13 @@ With this project you can syncronize a text with a spoken audio file and moving 
 This project is made to repicate K-VRC from [Love Death & Robots](https://nl.wikipedia.org/wiki/Love,_Death_%26_Robots) as an application.
 And later used for a reallife robot counterpart. You can use this project not only for this purpose but you can also use it to create your own speaking character.
 # Interface
+![interface overview](https://i.ibb.co/dPGksqB/K-VRC-Interface.jpg)<br>
+The interface exists of 3 main parts:
+- [Display](##Display)
+- TextArea
+- SettingsPanels
+## Display
+This is were your character is displayed. You can edit it's alignment with the yoffset constant or even write your own algnmentcode in: Window1->Controls->Canvas1->Paint
 # Behavior
 There are 9 default behaviors:
 - Normal
