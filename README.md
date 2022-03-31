@@ -5,11 +5,15 @@ And later used for a reallife robot counterpart. You can use this project not on
 # Interface
 ![interface overview](https://i.ibb.co/dPGksqB/K-VRC-Interface.jpg)<br>
 The interface exists of 3 main parts:
-- [Display](## Display)
-- TextArea
-- SettingsPanels
+- [Display](##Display)
+- [TextArea](##TextArea)
+- [SettingsPanels](##SettingsPanels)
 ## Display
 This is were your character is displayed. You can edit it's alignment with the yoffset constant or even write your own algnmentcode in: Window1->Controls->Canvas1->Paint
+## TextArea
+In here you can either choose a text file to use as read text or you can write it yourself and if you would like you could save your written text to your computer via the [SettingsPanels](##SettingsPanels)
+## SettingsPanels
+You can find these panels at the top- and bottom of the interface.
 # Behavior
 There are 9 default behaviors:
 - Normal
