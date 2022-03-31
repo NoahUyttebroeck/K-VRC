@@ -23,7 +23,7 @@ After doing this you can restart your application and your new behavior should b
 # Sound
 Sounds are used to move a reallife character by outputting this analog signal in the right channel and other sounds like speech is outputted in the left channel.
 # Add sound
-You can also add your own sounds like you can with behaviors.
+You can also add your own sounds like you can with [behaviors](#behavior).
 To add your own sound you need to make sure that there is only sound comming out of the right channel.
 Put your sound file in the project folder under resources->snd
 After doing this you can restart your application and your new sound should be inside the soundlist 
