@@ -5,7 +5,7 @@ And later used for a reallife robot counterpart. You can use this project not on
 # Interface
 ![interface overview](https://i.ibb.co/dPGksqB/K-VRC-Interface.jpg)<br>
 The interface exists of 3 main parts:
-- [Display](##Display)
+- [Display](## Display)
 - TextArea
 - SettingsPanels
 ## Display
